@@ -1,5 +1,4 @@
 from datasets import load_dataset
-import pandas as pd
 
 dataset = load_dataset("NebulaByte/E-Commerce_FAQs", split="train")
 

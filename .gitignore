@@ -1,5 +1,19 @@
-my_env/
+# Python
 __pycache__/
 *.pyc
+*.pyo
+.env
+
+# Model folder (too large for GitHub)
 model/
+
+# Dataset
 data/ecommerce_faq.json
+
+# Virtual environment
+venv/
+.venv/
+my_env/
+
+# VS Code
+.vscode/

@@ -1,6 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
 transformers
-datasets
 torch
+datasets
 pandas
-streamlit
-scikit-learn
+sentencepiece
+accelerate
